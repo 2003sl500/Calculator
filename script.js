@@ -45,5 +45,3 @@ function clr() {
 	num = "";
 	tempNum = "";
 }
-
-function add() {}
